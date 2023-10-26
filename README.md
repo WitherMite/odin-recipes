@@ -1,3 +1,4 @@
 # Recipes
----
-A basic website to practice HTML
+
+A basic project to practice HTML  
+https://www.theodinproject.com/lessons/foundations-recipes
