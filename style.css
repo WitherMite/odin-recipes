@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(39, 39, 39);
+    color: white;
+    
+}
+
+a:visited {
+    color: antiquewhite;
+}
+
+.header {
+    background-color: rgba(26, 26, 26, 0.699);
+    text-align: center;
+    width: 50%;
+}
